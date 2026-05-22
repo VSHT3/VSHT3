@@ -18,4 +18,4 @@
 
 ## 📫
 
-[GitHub](https://github.com/VSHT3) · [Email](mailto:sh7t@tutanota.com)
+[GitHub](https://github.com/VSHT3) · [Email](mailto:alexstefko50@gmail.com)
