@@ -45,7 +45,3 @@
 ## 📦 Top Repositories
 
 [![Kovac-Sebastian-Webpage-Dist ⭐ 2](https://www.shieldcn.dev/github/stars/VSHT3/Kovac-Sebastian-Webpage-Dist.svg?variant=secondary&size=sm)](https://github.com/VSHT3/Kovac-Sebastian-Webpage-Dist) [![clastify-destroyer ⭐ 1](https://www.shieldcn.dev/github/stars/VSHT3/clastify-destroyer.svg?variant=secondary&size=sm)](https://github.com/VSHT3/clastify-destroyer) [![cliant ⭐ 1](https://www.shieldcn.dev/github/stars/VSHT3/cliant.svg?variant=secondary&size=sm)](https://github.com/VSHT3/cliant) [![letheos ⭐ 1](https://www.shieldcn.dev/github/stars/VSHT3/letheos.svg?variant=secondary&size=sm)](https://github.com/VSHT3/letheos) [![DP-collab-project ⭐ 1](https://www.shieldcn.dev/github/stars/VSHT3/DP-collab-project.svg?variant=secondary&size=sm)](https://github.com/VSHT3/DP-collab-project) [![corespace ⭐ 1](https://www.shieldcn.dev/github/stars/VSHT3/corespace.svg?variant=secondary&size=sm)](https://github.com/VSHT3/corespace)
-
----
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
