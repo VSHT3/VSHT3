@@ -5,10 +5,13 @@
 **IB Diploma student · CS HL · Building things**
 
 ## 🔭 What I'm building
+</div>
 
 - **[corespace](https://github.com/VSHT3/corespace)** — AI-powered study tools for IB students (Next.js, Supabase, Gemini)
 - **Revision Village Gamifier** — Chrome extension adding XP, streaks & achievements to RV
 - **CMS Website** — Astro site for Comenius University's Center for Mesoamerican Studies
+
+<div align="center">
 
 
 ```
