@@ -1,25 +1,5 @@
 <div align="center">
 
-# 👋 VSHT3
-
-
-
-</div>
-
-
-
-## 🛠️ Stack
-
-`TypeScript` `Python` `Next.js` `React` `Astro` `Supabase` `Docker` `Swift` `Godot`
-
-## 📫
-
-[GitHub](https://github.com/VSHT3) · [Email](mailto:alexstefko50@gmail.com)
-
-
-
-<div align="center">
-
 # Hi, I'm VSHT 👋
 
 **IB Diploma student · CS HL · Building things**
