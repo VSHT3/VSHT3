@@ -5,9 +5,6 @@
 **IB Diploma student · CS HL · Making things**
 
 ## What I'm building
-</div>
-
-<div align="center">
 
 
 ```
@@ -32,7 +29,8 @@
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/vsht3.svg?variant=secondary&size=sm)](https://github.com/vsht3?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/vsht3.svg?variant=secondary&size=sm)](https://github.com/vsht3?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-11-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/vsht3?tab=repositories) ![Company](https://www.shieldcn.dev/badge/Company-Moru_Mori-1f2937.svg?logo=building&variant=ghost&size=sm)
 
-</div>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vsht3&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
+</div>
