@@ -4,8 +4,6 @@
 
 **IB Diploma student · CS HL · Making things**
 
-## What I'm building
-
 
 ```
        _                        
