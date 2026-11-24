@@ -2,7 +2,7 @@
 
 # Hi, I'm VSHT 💜
 
-**IB Diploma student · CS HL · Making things**
+**IB Diploma student · CS HL · Learning to make things**
 
 
 ```
